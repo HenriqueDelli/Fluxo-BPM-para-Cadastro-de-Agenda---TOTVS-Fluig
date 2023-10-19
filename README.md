@@ -3,7 +3,7 @@ Fluxo BPM para cadastro de agenda via ferramenta fluig da totvs
 
 Atividades do fluxo:
 Início – Preenchimento do formulário
-Aprovar agendamento – Atividade de aprovação, deve ser executada por um onde qualquer membro desse grupo pode aprovar a solicitação
+Aprovar agendamento – Atividade de aprovação, deve ser executada por um grupo onde qualquer membro desse grupo pode aprovar a solicitação
 Fim – Apenas visualização da agenda
 
 Formulário:
